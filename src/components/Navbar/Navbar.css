@@ -1,0 +1,35 @@
+
+
+
+
+/* nav__section__info */
+
+.nav__section__info{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 2rem;
+    
+  
+    
+
+}
+.nav__link{
+  display: flex;
+  gap: 20px;
+  font-size: large;
+  justify-items: center;
+  
+}
+
+
+/* logo  */
+
+.logo{
+    height: 30px;
+    width: 30px;
+    color: var(--white );
+}

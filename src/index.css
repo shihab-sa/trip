@@ -22,7 +22,7 @@ html{
   font-size: 10px;
 }
 body{
-  background-color: var(--lightBlue_1);
+  background-color: var(--darkBlue_4);
   font-family:'Poppins', sans-serif;
 }
 *, *:before, *:after {
@@ -42,7 +42,7 @@ ul, li{
   width: 90%;
   margin: 0 auto;
 }
-img, svg{
+/* img, svg{
   width: 100%;
   height: 100%;
-}
+}  */
